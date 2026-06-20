@@ -19,9 +19,12 @@ Carpeta oficial para devlogs, artículos, textos SEO y publicaciones web de **Ai
 
 `01-borradores` → `02-en-revision` → `03-listas-para-publicar` → `04-publicadas`
 
-## Contenido actual en revisión
+## Índice de contenido
 
-- [Devlog: cerrando la cinemática y el tutorial del Abismo](./02-en-revision/devlog-cinematica-tutorial-abismo.md)
+| Entrada | Estado | Objetivo | SEO principal | Próxima acción |
+| ------- | ------ | -------- | ------------- | -------------- |
+| [Devlog: cinemática y tutorial del Abismo](./02-en-revision/devlog-cinematica-tutorial-abismo.md) | Lista para revisar | Enseñar progreso real y preparar la comunidad para pruebas | desarrollo de juego indie en Unreal Engine | Confirmar estado del tutorial, imagen, enlaces y plugin SEO |
+| [Borrador de página para itch.io](./itchio/borrador-pagina-demo-caos-entre-reinos.md) | Borrador | Preparar una futura página o distribución controlada | indie action RPG | Decidir uso de itch.io, plataforma confirmada y tipo de lanzamiento |
 
 ## Requisitos antes de publicar
 
