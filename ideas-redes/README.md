@@ -21,16 +21,13 @@ Carpeta oficial para organizar contenido social de **Caos Entre Reinos: Reborn**
 
 Una idea puede saltar etapas cuando el material ya existe, pero su estado debe coincidir con la carpeta.
 
-## Contenido actual
+## Índice de contenido
 
-### Por grabar
-
-- [El despertar y el primer cristal del Abismo](./02-por-grabar/short-nacimiento-cristal-abismo.md)
-- [Tres Orialis cambian tu Constelación](./02-por-grabar/tiktok-orialis-cartas-build.md)
-
-### Por editar
-
-- [Del equilibrio al caos: cinemática inicial](./03-por-editar/reel-cinematica-inicial-caos.md)
+| Idea | Estado | Prioridad | Plataforma principal | Próxima acción |
+| ---- | ------ | --------- | -------------------- | -------------- |
+| [El despertar y el primer cristal del Abismo](./02-por-grabar/short-nacimiento-cristal-abismo.md) | Pendiente de grabar | Alta | YouTube Shorts | Grabar cristal, despertar, recorrido y plano general |
+| [Tres Orialis cambian tu Constelación](./02-por-grabar/tiktok-orialis-cartas-build.md) | Pendiente de grabar | Media | TikTok | Elegir tres cartas claras y grabar valores antes/después |
+| [Del equilibrio al caos: cinemática inicial](./03-por-editar/reel-cinematica-inicial-caos.md) | Pendiente de editar | Alta | Instagram Reels | Exportar montaje vertical y decidir tratamiento del doblaje |
 
 ## Reglas
 
