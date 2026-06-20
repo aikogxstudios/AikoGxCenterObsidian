@@ -131,3 +131,95 @@ Alta
 ## Mejor momento para usarla
 
 Cuando el 5 % restante del mapa esté repasado y el comienzo del tutorial pueda enseñarse sin distraer del desarrollo.
+
+
+---
+
+# Paquete accionable de publicación
+
+## Plataforma principal
+
+YouTube Shorts
+
+## Plataformas secundarias
+
+TikTok, Instagram Reels, X/Twitter y Discord.
+
+## Música y SFX sugeridos
+
+- Ambiente grave y contenido durante el plano inicial.
+- Pulso o subida corta antes del despertar.
+- Impacto cristalino sincronizado con el destello.
+- Caída suave del sonido antes del plano final.
+- Usar únicamente música original o con licencia confirmada.
+
+## Miniatura o portada recomendada
+
+Primer plano del cristal azul iluminando la silueta del jugador, con fondo oscuro y el texto **«Despiertas aquí»**. Mantener el personaje y el cristal en el centro seguro para que funcione en recortes.
+
+## Archivos que deben prepararse
+
+- `cristal-abismo-vertical-v01.mp4`
+- `cristal-abismo-portada-1080x1920.png`
+- `cristal-abismo-sin-texto.mp4`
+- Captura fuente del cristal en resolución completa.
+
+## Textos listos por plataforma
+
+### TikTok
+
+**Descripción:** Despiertas dentro del Abismo y este cristal es lo primero que ves. Seguimos puliendo el inicio de Caos Entre Reinos: Reborn. ¿Cruzarías el portal?
+
+**Hashtags:** #CaosEntreReinos #IndieGame #GameDev #UnrealEngine #ActionRPG
+
+### YouTube Shorts
+
+**Título:** Despiertas en el Abismo | Caos Entre Reinos: Reborn
+
+**Descripción:** El comienzo del tutorial: un cristal azul, un mundo roto y una nueva oportunidad. Esta zona todavía está en desarrollo.
+
+**Hashtags:** #CaosEntreReinos #Shorts #IndieGame #UnrealEngine
+
+### Instagram Reels
+
+**Descripción:** El primer instante del tutorial del Abismo. Una pequeña muestra del ambiente que estamos construyendo para Caos Entre Reinos: Reborn. 🌸
+
+**Hashtags:** #CaosEntreReinos #IndieDev #GameDevelopment #UnrealEngine #ActionRPG
+
+### X/Twitter
+
+Despiertas en el Abismo. Este cristal es lo primero que ves.  
+Estamos puliendo el comienzo del tutorial de Caos Entre Reinos: Reborn. ¿Qué harías primero?
+
+### Discord
+
+Nuevo vistazo propuesto para el comienzo del tutorial: cristal azul, despertar y primer paso hacia el Abismo. Cuando grabemos la toma final nos gustaría saber si la atmósfera transmite misterio sin resultar confusa.
+
+## CTA recomendado
+
+«¿Cruzarías el portal?» para TikTok/X.  
+«Sigue el desarrollo de Caos Entre Reinos: Reborn» para Shorts/Reels.
+
+## Mejor momento para publicarlo
+
+Después de repasar el 5 % restante del mapa y confirmar que la secuencia inicial no muestra elementos temporales.
+
+## Checklist
+
+- [ ] Grabado.
+- [ ] Editado.
+- [ ] Subtítulos revisados.
+- [ ] Texto legible en móvil.
+- [ ] Sin bugs visibles que den mala imagen.
+- [x] Descripciones preparadas.
+- [ ] Hashtags revisados con investigación actual.
+- [ ] Música y licencia comprobadas.
+- [ ] Portada exportada.
+- [ ] Publicación programada o pendiente.
+
+## Investigación pendiente antes de publicar
+
+- Confirmar límites, resolución y duración vigentes de cada plataforma.
+- Revisar tres Shorts recientes de comienzos de juegos indie.
+- Validar hashtags actuales y eliminar los que aporten poco.
+- Comprobar zona segura de texto para TikTok, Shorts y Reels.
