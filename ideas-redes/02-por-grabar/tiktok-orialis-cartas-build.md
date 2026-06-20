@@ -133,3 +133,94 @@ Media
 ## Mejor momento para usarla
 
 Después de cerrar las tareas urgentes de cinemática y tutorial, o como contenido entre el beta test y una futura explicación más profunda del sistema.
+
+
+---
+
+# Paquete accionable de publicación
+
+## Plataforma principal
+
+TikTok
+
+## Plataformas secundarias
+
+YouTube Shorts, Instagram Reels, X/Twitter y Discord.
+
+## Música y SFX sugeridos
+
+- Ritmo ligero con tres golpes claros para cada carta equipada.
+- Sonido breve de carta o cristal al ocupar cada slot.
+- Impacto más grave al aparecer la Constelación final.
+- Evitar música épica que compita con las cifras y el texto.
+- Usar únicamente audio original o con licencia confirmada.
+
+## Miniatura o portada recomendada
+
+Tres Orialis formando un triángulo alrededor del texto **«Elige solo 3»**. Mostrar una estadística cambiando, pero evitar números pequeños ilegibles.
+
+## Archivos que deben prepararse
+
+- `orialis-tres-cartas-vertical-v01.mp4`
+- `orialis-antes-despues-sin-texto.mp4`
+- `orialis-portada-elige-tres.png`
+- Capturas limpias de los tres Orialis seleccionados.
+
+## Textos listos por plataforma
+
+### TikTok
+
+**Descripción:** Hay 20 Orialis integrados, pero la base actual solo permite equipar tres. Tu combinación forma una Constelación y cambia vida, caos o daño. ¿Qué priorizarías?
+
+**Hashtags:** #CaosEntreReinos #GameDev #IndieGame #UnrealEngine #CardSystem #ActionRPG
+
+### YouTube Shorts
+
+**Título:** Solo puedes elegir 3 Orialis
+
+**Descripción:** Así funciona la base actual de Orialis y Constelación en Caos Entre Reinos: Reborn. La interfaz y el balance siguen en desarrollo.
+
+**Hashtags:** #CaosEntreReinos #Shorts #IndieDev #CardSystem
+
+### Instagram Reels
+
+**Descripción:** Tres cartas, una Constelación. La base funcional de Orialis ya modifica estadísticas reales; ahora toca mejorar lectura, balance y presentación.
+
+**Hashtags:** #CaosEntreReinos #GameDevelopment #IndieDev #UnrealEngine #RPG
+
+### X/Twitter
+
+20 Orialis integrados. Tres slots en la base actual.  
+¿Crearías una Constelación de vida, daño o caos?
+
+### Discord
+
+Queremos grabar una demostración corta de Orialis: tres cartas, valores antes/después y una elección final. ¿Qué build os gustaría ver primero: vida, daño o caos?
+
+## CTA recomendado
+
+«¿Vida, daño o caos?» y convertir las respuestas en una futura comparación de builds.
+
+## Mejor momento para publicarlo
+
+Después de cerrar cinemática y tutorial, usando tres cartas cuyos textos y efectos sean suficientemente claros para enseñar.
+
+## Checklist
+
+- [ ] Grabado.
+- [ ] Editado.
+- [ ] Subtítulos revisados.
+- [ ] Texto y cifras legibles en móvil.
+- [ ] Sin nombres provisionales ni bugs visibles.
+- [x] Descripciones preparadas.
+- [ ] Hashtags revisados con investigación actual.
+- [ ] Música y licencia comprobadas.
+- [ ] Portada exportada.
+- [ ] Publicación programada o pendiente.
+
+## Investigación pendiente antes de publicar
+
+- Revisar formatos actuales de “elige una opción” en TikTok y Shorts.
+- Confirmar hashtags y duración vigentes.
+- Buscar tres ejemplos de sistemas de cartas explicados sin saturar la pantalla.
+- Validar zonas seguras y tamaño mínimo de cifras.
