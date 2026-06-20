@@ -132,3 +132,97 @@ Alta
 ## Mejor momento para usarla
 
 Es la mejor idea para publicar primero cuando exista un montaje vertical limpio. Aprovecha trabajo ya terminado y requiere menos grabación nueva que las demás.
+
+
+---
+
+# Paquete accionable de publicación
+
+## Plataforma principal
+
+Instagram Reels
+
+## Plataformas secundarias
+
+YouTube Shorts, TikTok, X/Twitter y Discord.
+
+## Música y SFX sugeridos
+
+- Usar el diseño sonoro ya revisado como base.
+- Comenzar con ambiente contenido y cortar al impacto de la ruptura.
+- Reservar el punto más intenso para la segunda era de caos.
+- Si faltan las voces finales, usar subtítulos y una mezcla sin voz claramente identificada.
+- No sustituir la música por una tendencia sin licencia confirmada.
+
+## Miniatura o portada recomendada
+
+Imagen dividida por luz y oscuridad: equilibrio a un lado, caos al otro. Texto breve: **«El caos volvió»**. Evitar párrafos, logotipos grandes o fotogramas con subtítulos.
+
+## Archivos que deben prepararse
+
+- `cinematica-caos-reel-v01.mp4`
+- `cinematica-caos-short-v01.mp4`
+- `cinematica-caos-teaser-x.mp4`
+- `cinematica-caos-portada.png`
+- Copia sin texto para futuras adaptaciones.
+
+## Textos listos por plataforma
+
+### TikTok
+
+**Descripción:** El mundo creyó que el caos había terminado. Este es un vistazo a la cinemática inicial de Caos Entre Reinos: Reborn. La integración final del audio sigue en proceso.
+
+**Hashtags:** #CaosEntreReinos #GameDev #IndieGame #UnrealEngine #Cinematic #ActionRPG
+
+### YouTube Shorts
+
+**Título:** El caos volvió | Cinemática de Caos Entre Reinos
+
+**Descripción:** Un vistazo breve a la introducción del juego: equilibrio, ruptura y una nueva esperanza. La versión española ya fue revisada; el doblaje final sigue pendiente.
+
+**Hashtags:** #CaosEntreReinos #Shorts #IndieGame #Cinematic
+
+### Instagram Reels
+
+**Descripción:** Del equilibrio a una segunda era de caos. 🌸 Un vistazo a la cinemática inicial que estamos preparando para Caos Entre Reinos: Reborn.
+
+**Hashtags:** #CaosEntreReinos #IndieDev #GameCinematic #UnrealEngine #GameDevelopment
+
+### X/Twitter
+
+El mundo creyó que el caos había terminado.  
+Un vistazo breve a la cinemática inicial de Caos Entre Reinos: Reborn. El audio final todavía está en proceso.
+
+### Discord
+
+Ya tenemos las versiones española e inglesa de la cinemática y estamos preparando un montaje corto para compartir. Este corte busca enseñar el tono sin revelar demasiado. ¿Qué os transmite: misterio, peligro o esperanza?
+
+## CTA recomendado
+
+«¿Qué os transmite esta escena?» para conversación.  
+«Sigue el desarrollo» para piezas más promocionales.
+
+## Mejor momento para publicarlo
+
+Es la primera pieza recomendada: publicar cuando exista el montaje vertical, los subtítulos estén revisados y se haya decidido si saldrá con doblaje final o solo con diseño sonoro.
+
+## Checklist
+
+- [x] Material base grabado y editado en formato original.
+- [ ] Montaje vertical editado.
+- [ ] Subtítulos revisados.
+- [ ] Texto legible en móvil.
+- [ ] Sin spoilers ni fallos visibles.
+- [x] Descripciones preparadas.
+- [ ] Hashtags revisados con investigación actual.
+- [ ] Mezcla de audio móvil comprobada.
+- [ ] Portada exportada.
+- [ ] Decisión sobre doblaje confirmada.
+- [ ] Publicación programada o pendiente.
+
+## Investigación pendiente antes de publicar
+
+- Revisar tres teasers verticales recientes de cinemáticas indie.
+- Confirmar duración, resolución y zonas seguras vigentes.
+- Validar hashtags actuales por plataforma.
+- Comparar rendimiento esperado de un hook narrativo frente a uno puramente visual.
