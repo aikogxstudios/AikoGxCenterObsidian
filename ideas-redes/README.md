@@ -1,35 +1,45 @@
 # Ideas para redes
 
-Carpeta oficial del repositorio para organizar todas las ideas publicables de AikoGx Studios y **Caos Entre Reinos: Reborn**.
+Carpeta oficial para organizar contenido social de **Caos Entre Reinos: Reborn** y **AikoGx Studios**.
 
-## Regla fija
+## Estructura
 
-Toda idea para TikTok, YouTube Shorts, Instagram Reels, X/Twitter o Discord debe terminar como un archivo `.md` separado dentro de `ideas-redes/`.
+| Carpeta | Uso |
+| --- | --- |
+| [`_plantillas/`](./_plantillas/) | Plantillas reutilizables |
+| [`00-estrategia/`](./00-estrategia/) | Estrategia, investigación, tono, formatos y buenas prácticas |
+| [`01-inbox-ideas/`](./01-inbox-ideas/) | Ideas rápidas todavía sin filtrar |
+| [`02-por-grabar/`](./02-por-grabar/) | Ideas válidas que necesitan material nuevo de Fak |
+| [`03-por-editar/`](./03-por-editar/) | Contenido con material disponible que necesita montaje o edición |
+| [`04-listas-para-publicar/`](./04-listas-para-publicar/) | Publicaciones completamente preparadas |
+| [`05-publicadas/`](./05-publicadas/) | Historial de publicaciones y resultados |
+| [`99-archivo/`](./99-archivo/) | Ideas descartadas, antiguas o reemplazadas |
 
-También pertenecen aquí:
+## Flujo
 
-- hooks de vídeo;
-- guiones cortos;
-- propuestas para enseñar avances;
-- adaptaciones sociales de devlogs;
-- ideas derivadas de gameplay, cinemática, tutorial, Orialis, UI o bugs curiosos;
-- listas del material que Fak debe grabar.
+`01-inbox-ideas` → `02-por-grabar` → `03-por-editar` → `04-listas-para-publicar` → `05-publicadas`
 
-No guardar estas propuestas dentro de `Caos Entre Reinos/11 - Material Visual/`. Esa carpeta queda reservada para capturas, clips, vídeos, referencias y assets reales.
+Una idea puede saltar etapas cuando el material ya existe, pero su estado debe coincidir con la carpeta.
 
-## Reglas de creación
+## Contenido actual
 
-1. Crear una nota por idea con nombre descriptivo en minúsculas y guiones.
-2. Indicar siempre la nota, tarea, captura o clip real de origen.
-3. No inventar avances.
-4. Si falta material, crear igualmente la idea e indicar qué debe grabar Fak.
-5. Mantener las entradas web completas separadas en `entradas-web/`.
+### Por grabar
 
-## Nombres de ejemplo
+- [El despertar y el primer cristal del Abismo](./02-por-grabar/short-nacimiento-cristal-abismo.md)
+- [Tres Orialis cambian tu Constelación](./02-por-grabar/tiktok-orialis-cartas-build.md)
 
-- `short-nacimiento-cristal-abismo.md`
-- `tiktok-cinematica-inicial-caos.md`
-- `reel-orialis-cartas-build.md`
-- `clip-bug-curioso-tutorial.md`
+### Por editar
 
-Usar [plantilla-idea-red-social.md](./plantilla-idea-red-social.md) como base.
+- [Del equilibrio al caos: cinemática inicial](./03-por-editar/reel-cinematica-inicial-caos.md)
+
+## Reglas
+
+- Una idea por archivo `.md`.
+- No inventar avances ni fechas.
+- Indicar siempre la fuente real.
+- Especificar qué debe grabar Fak.
+- No publicar automáticamente.
+- Material Visual conserva los clips, capturas y assets; aquí se organizan las propuestas publicables.
+- Al publicar, registrar fecha, plataforma, enlace y rendimiento conocido.
+
+Consulta [la estrategia de redes](./00-estrategia/estrategia-redes.md) antes de preparar tandas importantes.
