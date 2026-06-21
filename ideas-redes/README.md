@@ -25,6 +25,7 @@ Una idea puede saltar etapas cuando el material ya existe, pero su estado debe c
 
 | Idea | Estado | Prioridad | Plataforma principal | Próxima acción |
 | ---- | ------ | --------- | -------------------- | -------------- |
+| [Primer gameplay de la Bruja](./02-por-grabar/short-primer-gameplay-bruja-habilidad-2.md) | Pendiente de grabar | Alta | YouTube Shorts | Validar sonido e iconos y grabar la habilidad 2 en combate |
 | [El despertar y el primer cristal del Abismo](./02-por-grabar/short-nacimiento-cristal-abismo.md) | Pendiente de grabar | Alta | YouTube Shorts | Grabar cristal, despertar, recorrido y plano general |
 | [El Abismo ya tiene voz propia](./02-por-grabar/short-sonidos-abismo-zonas-1-3.md) | Pendiente de grabar | Alta | YouTube Shorts | Grabar zonas 1–3 con ambiente, fuego y sonidos mágicos |
 | [César te guía; Akuma cambia el rumbo](./02-por-grabar/short-dialogos-cesar-akuma-tutorial.md) | Listo para grabar · Bloqueado | Alta | YouTube Shorts | Validar diálogo final y grabar César, Akuma y portal |
